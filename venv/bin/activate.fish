@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/libre-18/Downloads/Dreamshop-master/venv"
+set -gx VIRTUAL_ENV "/home/libre-18/Downloads/ABC shop/E-comerce/venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
